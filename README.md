@@ -1,4 +1,4 @@
-Delta Calculator for Quadratic Functions
+Delta Calculator for Quadratic Functions\n
 This is a simple Python script that calculates the delta value for quadratic functions of the form ax^2 + bx + c = 0, and outputs the result.
 
 Usage
